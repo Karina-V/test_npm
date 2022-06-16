@@ -15,7 +15,7 @@ html, body {
 }
 
 .bg-img1 {
-  background-image: url(./img/bg_img1.jpeg);
+  background-image: url(../img/bg_img1.jpeg);
   background-attachment: fixed;
 }
 
