@@ -16,7 +16,7 @@ html, body {
 
 .bg-img1 {
   background-image: url(./img/bg_img1.jpeg);
-  background-attachment: fixed;
+  //background-attachment: fixed;
 }
 
 .container-wid {
