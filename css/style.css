@@ -15,8 +15,8 @@ html, body {
 }
 
 .bg-img1 {
-  background-image: url(/img/bg_img1.jpeg);
   background-attachment: fixed;
+  background-image: url(https://images3.alphacoders.com/719/thumb-1920-719372.jpg);
 }
 
 .container-wid {
@@ -62,10 +62,10 @@ html, body {
 }
 
 .form-floating .success {
-  border: 6px solid #26af51;
+  border: 1px solid #26af51;
 }
 
 .form-floating .error {
-  border: 6px solid #dc3545;
+  border: 1px solid #dc3545;
 }
 /*# sourceMappingURL=style.css.map */
